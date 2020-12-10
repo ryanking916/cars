@@ -1,6 +1,11 @@
 # Application Purpose
-
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
+
+Name: Ryan King
+Student ID: 2385162
+Email: ryanking@chapman.edu
+Class: CPSC 298
+Assignment: cars
    
 ## The user will be presented with a menu of three options:
 
